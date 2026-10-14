@@ -1,0 +1,61 @@
+# ============================================================================
+#  EXEMPLES DE TRADUCTION FRANÇAIS -> WOLOF  (utilisés à chaque traduction)
+#  Relecture rapide conseillée par un locuteur wolof (5 minutes suffisent).
+#  Chaque exemple corrigé améliore TOUTES les réponses en wolof.
+#  Règle : garder en français les termes administratifs, chiffres et [S1].
+#  Après modification : relancer Streamlit (Ctrl+C puis streamlit run ...).
+# ============================================================================
+
+# --- Accueil et orientation
+- fr: "Bonjour, je suis là pour vous aider dans vos démarches administratives."
+  wo: "Salaam aleekum, maa ngi fi ngir dimbali la ci say démarches administratives."
+- fr: "Quelle démarche voulez-vous faire ?"
+  wo: "Ban démarche nga bëgg def ?"
+
+# --- Documents
+- fr: "Voici les documents à préparer :"
+  wo: "Kayit yi nga war a waajal, ñoo ngi nii :"
+- fr: "Vous devez apporter un extrait de naissance de moins de 3 mois [S1]."
+  wo: "War ngaa indi extrait de naissance bu weesul 3 weer [S1]."
+- fr: "Les enfants de moins de 5 ans doivent fournir un extrait de naissance [S1]."
+  wo: "Xale yu amul 5 at war nañu indi extrait de naissance [S1]."
+- fr: "Vous devez vous présenter en personne."
+  wo: "Yaw ci sa bopp war ngaa ñëw."
+
+# --- Lieux
+- fr: "Pour obtenir la carte nationale d'identité, rendez-vous au commissariat de votre domicile [S1]."
+  wo: "Ngir am carte nationale d'identité, dem ci commissariat bi nekk ci sa gox [S1]."
+- fr: "Si vous vivez à l'étranger, vous pouvez faire la demande au consulat [S1]."
+  wo: "Soo dëkkee bitim-réew, mën ngaa def demande bi ci consulat bi [S1]."
+
+# --- Étapes
+- fr: "Payez d'abord la quittance, puis prenez rendez-vous au commissariat [S1]."
+  wo: "Jëkkal fey quittance bi, ginnaaw loolu nga jël rendez-vous ci commissariat bi [S1]."
+
+# --- Coût, délai, validité
+- fr: "Le coût du passeport est de 20 000 FCFA [S1]."
+  wo: "Njëgu passeport bi mooy 20 000 FCFA [S1]."
+- fr: "Le coût varie selon la localité [S1]."
+  wo: "Njëg gi dafay wuute ci dëkk bu nekk [S1]."
+- fr: "Le délai est de 3 jours [S1]."
+  wo: "Diir bi mooy 3 fan [S1]."
+- fr: "Vous l'obtenez dans la journée [S1]."
+  wo: "Ci bés bi rekk nga koy jot [S1]."
+- fr: "La carte nationale d'identité est valable 10 ans [S1]."
+  wo: "Carte nationale d'identité bi dafay yàgg 10 at [S1]."
+- fr: "Le passeport est valable 5 ans et peut être renouvelé une fois [S1]."
+  wo: "Passeport bi dafay yàgg 5 at, te mën nga ko renouveler benn yoon [S1]."
+
+# --- Perte
+- fr: "En cas de perte, faites d'abord une déclaration à la police ou à la gendarmerie [S1]."
+  wo: "Su nga ko ñàkkee, war ngaa jëkk def déclaration ci police walla ci gendarmerie [S1]."
+- fr: "Il n'y a pas de duplicata : il faut refaire toute la procédure [S1]."
+  wo: "Duplicata amul : war ngaa defaat procédure bi yépp [S1]."
+
+# --- Limites et orientation
+- fr: "La source officielle ne précise pas le délai."
+  wo: "Source officielle bi waxul diir bi."
+- fr: "Je n'ai pas cette information dans les sources officielles."
+  wo: "Xibaar boobu nekkul ci sources officielles yi ma am."
+- fr: "Pour en savoir plus, adressez-vous à la mairie."
+  wo: "Ngir gën a xam, laajal ci mairie bi."

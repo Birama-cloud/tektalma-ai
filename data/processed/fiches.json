@@ -1,0 +1,458 @@
+[
+ {
+  "doc_id": "e02a2128ea52",
+  "meta": {
+   "title": "Demander une copie littérale d'acte de naissance",
+   "organisme": "Centre d'état civil - Centre national d'état civil",
+   "url": "https://senegalservices.sn/demarche/demander-une-copie-litterale-dacte-de-naissance",
+   "source_type": "fiche_demarche",
+   "reliability": 3,
+   "language": "fr",
+   "category": "etat_civil",
+   "subcategory": "acte_naissance",
+   "action": "general",
+   "published_at": "",
+   "updated_at": "",
+   "collected_at": "2026-09-26",
+   "collection_method": "extrait_page_officielle",
+   "status": "active",
+   "fiche": "copie_litterale_naissance",
+   "country": "SN"
+  },
+  "sections": [
+   [
+    "Qui peut la demander ?",
+    "Toute personne ayant comparu lors de l'établissement de l'acte (les parents, les témoins, le médecin, etc.)."
+   ],
+   [
+    "Documents à présenter",
+    "Le demandeur doit se présenter avec une pièce justifiant de son identité."
+   ],
+   [
+    "Coût",
+    "Une vignette dont le montant varie selon la localité : de 200 FCFA à 500 FCFA pour les communes, de 75 FCFA à 150 FCFA pour les communautés rurales."
+   ],
+   [
+    "Délai",
+    "Dans la journée."
+   ],
+   [
+    "Que faire en cas de perte ?",
+    "Renouveler la demande."
+   ],
+   [
+    "Où s'adresser ?",
+    "Au centre d'état civil du lieu de déclaration de la naissance. Pour les naissances à l'étranger, s'adresser au ministère des Affaires étrangères ou à la représentation diplomatique du Sénégal dans le pays de naissance. Les personnes résidant à l'étranger peuvent s'adresser à la représentation diplomatique ou consulaire du Sénégal du pays de résidence."
+   ],
+   [
+    "Pour en savoir plus",
+    "S'adresser au Centre national d'état civil ou au tribunal départemental."
+   ]
+  ],
+  "full_text": "Qui peut la demander ? :\nToute personne ayant comparu lors de l'établissement de l'acte (les parents, les témoins, le médecin, etc.).\n\nDocuments à présenter :\nLe demandeur doit se présenter avec une pièce justifiant de son identité.\n\nCoût :\nUne vignette dont le montant varie selon la localité : de 200 FCFA à 500 FCFA pour les communes, de 75 FCFA à 150 FCFA pour les communautés rurales.\n\nDélai :\nDans la journée.\n\nQue faire en cas de perte ? :\nRenouveler la demande.\n\nOù s'adresser ? :\nAu centre d'état civil du lieu de déclaration de la naissance. Pour les naissances à l'étranger, s'adresser au ministère des Affaires étrangères ou à la représentation diplomatique du Sénégal dans le pays de naissance. Les personnes résidant à l'étranger peuvent s'adresser à la représentation diplomatique ou consulaire du Sénégal du pays de résidence.\n\nPour en savoir plus :\nS'adresser au Centre national d'état civil ou au tribunal départemental."
+ },
+ {
+  "doc_id": "68fff96db942",
+  "meta": {
+   "title": "Déclarer une naissance",
+   "organisme": "Centre d'état civil - Centre national d'état civil",
+   "url": "https://senegalservices.sn/demarche/declarer-une-naissance",
+   "source_type": "fiche_demarche",
+   "reliability": 3,
+   "language": "fr",
+   "category": "etat_civil",
+   "subcategory": "declaration_naissance",
+   "action": "premiere_demande",
+   "published_at": "",
+   "updated_at": "",
+   "collected_at": "2026-09-26",
+   "collection_method": "extrait_page_officielle",
+   "status": "active",
+   "fiche": "declaration_naissance",
+   "country": "SN"
+  },
+  "sections": [
+   [
+    "Description",
+    "La déclaration de naissance permet l'enregistrement de la naissance d'un enfant dans les registres de l'état civil."
+   ],
+   [
+    "Où s'adresser ?",
+    "Au centre d'état civil du lieu de naissance."
+   ],
+   [
+    "Après la déclaration",
+    "Demander un extrait d'acte de naissance, un bulletin ou une copie littérale d'acte de naissance au centre d'état civil où la naissance a été enregistrée."
+   ],
+   [
+    "Pour en savoir plus",
+    "S'adresser au Centre national d'état civil ou au tribunal départemental."
+   ]
+  ],
+  "full_text": "Description :\nLa déclaration de naissance permet l'enregistrement de la naissance d'un enfant dans les registres de l'état civil.\n\nOù s'adresser ? :\nAu centre d'état civil du lieu de naissance.\n\nAprès la déclaration :\nDemander un extrait d'acte de naissance, un bulletin ou une copie littérale d'acte de naissance au centre d'état civil où la naissance a été enregistrée.\n\nPour en savoir plus :\nS'adresser au Centre national d'état civil ou au tribunal départemental."
+ },
+ {
+  "doc_id": "57423087ce73",
+  "meta": {
+   "title": "Demander un extrait du registre des actes de naissance",
+   "organisme": "Centre d'état civil - Centre national d'état civil",
+   "url": "https://senegalservices.sn/demarche/demander-un-extrait-du-registre-des-actes-de-naissance",
+   "source_type": "fiche_demarche",
+   "reliability": 3,
+   "language": "fr",
+   "category": "etat_civil",
+   "subcategory": "acte_naissance",
+   "action": "general",
+   "published_at": "",
+   "updated_at": "",
+   "collected_at": "2026-09-26",
+   "collection_method": "extrait_page_officielle",
+   "status": "active",
+   "fiche": "extrait_naissance",
+   "country": "SN"
+  },
+  "sections": [
+   [
+    "Description",
+    "L'extrait du registre des actes de naissance est une reproduction sommaire de l'acte de naissance qui renseigne sur l'état civil d'une personne."
+   ],
+   [
+    "Quand faut-il le demander ?",
+    "À tout moment, afin de compléter un dossier administratif."
+   ],
+   [
+    "Documents à présenter",
+    "La personne doit présenter une pièce d'identification ou toute information renseignant sur l'identité de la personne (année et numéro d'enregistrement dans le registre des naissances par exemple)."
+   ],
+   [
+    "Coût",
+    "Une vignette d'une valeur variant selon la localité : de 200 FCFA à 500 FCFA pour les communes, de 75 FCFA à 150 FCFA pour les communautés rurales."
+   ],
+   [
+    "Délai",
+    "Dans la journée."
+   ],
+   [
+    "Que faire en cas de perte ?",
+    "Renouveler la procédure."
+   ],
+   [
+    "Où s'adresser ?",
+    "Au centre d'état civil du lieu de déclaration de la naissance. Pour les Sénégalais nés à l'étranger, s'adresser au ministère des Affaires étrangères ou à la représentation diplomatique ou consulaire du Sénégal du pays de naissance. Les personnes résidant à l'étranger peuvent s'adresser à la représentation diplomatique ou consulaire du Sénégal du pays de résidence."
+   ],
+   [
+    "Pour en savoir plus",
+    "S'adresser au Centre national d'état civil ou au tribunal départemental."
+   ]
+  ],
+  "full_text": "Description :\nL'extrait du registre des actes de naissance est une reproduction sommaire de l'acte de naissance qui renseigne sur l'état civil d'une personne.\n\nQuand faut-il le demander ? :\nÀ tout moment, afin de compléter un dossier administratif.\n\nDocuments à présenter :\nLa personne doit présenter une pièce d'identification ou toute information renseignant sur l'identité de la personne (année et numéro d'enregistrement dans le registre des naissances par exemple).\n\nCoût :\nUne vignette d'une valeur variant selon la localité : de 200 FCFA à 500 FCFA pour les communes, de 75 FCFA à 150 FCFA pour les communautés rurales.\n\nDélai :\nDans la journée.\n\nQue faire en cas de perte ? :\nRenouveler la procédure.\n\nOù s'adresser ? :\nAu centre d'état civil du lieu de déclaration de la naissance. Pour les Sénégalais nés à l'étranger, s'adresser au ministère des Affaires étrangères ou à la représentation diplomatique ou consulaire du Sénégal du pays de naissance. Les personnes résidant à l'étranger peuvent s'adresser à la représentation diplomatique ou consulaire du Sénégal du pays de résidence.\n\nPour en savoir plus :\nS'adresser au Centre national d'état civil ou au tribunal départemental."
+ },
+ {
+  "doc_id": "935ac1f5435d",
+  "meta": {
+   "title": "Demander la transcription d'un acte d'état civil établi à l'étranger (naissance, mariage, décès)",
+   "organisme": "Ministère des Affaires étrangères - services consulaires",
+   "url": "https://senegalservices.sn/demarche/demander-la-transcription-dun-acte-detat-civil-acte-de-naissance-acte-de-mariage-acte-de-deces",
+   "source_type": "fiche_demarche",
+   "reliability": 3,
+   "language": "fr",
+   "category": "etat_civil",
+   "subcategory": "transcription",
+   "action": "general",
+   "published_at": "",
+   "updated_at": "",
+   "collected_at": "2026-09-26",
+   "collection_method": "extrait_page_officielle",
+   "status": "active",
+   "fiche": "transcription_acte",
+   "country": "SN"
+  },
+  "sections": [
+   [
+    "Pièces à fournir",
+    "Une demande adressée au ministre des Affaires étrangères ou à l'autorité diplomatique ou consulaire compétente (si l'intéressé réside à l'étranger).\nUn justificatif de la nationalité sénégalaise (certificat de nationalité, copie légalisée du passeport ou de la carte nationale d'identité) ou un justificatif de la nationalité sénégalaise du père.\nL'original de l'acte d'état civil délivré par l'autorité étrangère."
+   ],
+   [
+    "Document délivré",
+    "Un extrait d'acte transcrit."
+   ],
+   [
+    "Délai",
+    "Entre 3 et 10 jours environ, selon que le demandeur dépose sa demande auprès du Ministère des Affaires étrangères ou de l'ambassade ou du service consulaire."
+   ],
+   [
+    "Que faire en cas de perte ?",
+    "Nouvelle délivrance."
+   ]
+  ],
+  "full_text": "Pièces à fournir :\nUne demande adressée au ministre des Affaires étrangères ou à l'autorité diplomatique ou consulaire compétente (si l'intéressé réside à l'étranger).\nUn justificatif de la nationalité sénégalaise (certificat de nationalité, copie légalisée du passeport ou de la carte nationale d'identité) ou un justificatif de la nationalité sénégalaise du père.\nL'original de l'acte d'état civil délivré par l'autorité étrangère.\n\nDocument délivré :\nUn extrait d'acte transcrit.\n\nDélai :\nEntre 3 et 10 jours environ, selon que le demandeur dépose sa demande auprès du Ministère des Affaires étrangères ou de l'ambassade ou du service consulaire.\n\nQue faire en cas de perte ? :\nNouvelle délivrance."
+ },
+ {
+  "doc_id": "a5e49e03824b",
+  "meta": {
+   "title": "Demander une carte nationale d'identité",
+   "organisme": "Ministère de l'Intérieur - Direction de l'Automatisation des Fichiers (DAF)",
+   "url": "https://senegalservices.sn/demarche/demander-une-carte-nationale-didentite",
+   "source_type": "fiche_demarche",
+   "reliability": 3,
+   "language": "fr",
+   "category": "identite",
+   "subcategory": "cni",
+   "action": "general",
+   "published_at": "",
+   "updated_at": "",
+   "collected_at": "2026-09-26",
+   "collection_method": "extrait_page_officielle",
+   "status": "active",
+   "fiche": "cni_demande",
+   "country": "SN"
+  },
+  "sections": [
+   [
+    "Qui peut faire la demande ?",
+    "Tout citoyen sénégalais, âgé d'au moins 5 ans, peut demander l'établissement d'une carte nationale d'identité. Elle est obligatoire à partir de 15 ans. Ce document justifie de l'identité. Il est souvent exigé dans le cadre de démarches administratives ou de transactions commerciales. Il doit également être présenté lors des contrôles opérés par les forces de sécurité."
+   ],
+   [
+    "Obligation et sanction",
+    "Si, au cours d'un contrôle d'identité, une personne de plus de 15 ans ne peut pas présenter sa carte nationale d'identité, elle est susceptible d'être emmenée au commissariat pour contrôle. Si une personne de plus de 15 ans n'a pas de carte nationale d'identité ou a une carte nationale d'identité périmée, elle peut recevoir une amende de 6 000 FCFA, ou de 12 000 FCFA en cas de récidive."
+   ],
+   [
+    "Pièces à fournir",
+    "L'ancienne carte nationale d'identité ou un extrait de naissance datant de moins de 3 mois ou toute pièce en tenant lieu, l'ancien passeport CEDEAO, le nouveau passeport CEDEAO numérisé.\nLe citoyen peut présenter une ancienne carte nationale d'identité si elle a été établie depuis 1979 ou un extrait de naissance datant au plus de 5 ans.\nEn cas de doute sur la nationalité du demandeur, il devra fournir un certificat de nationalité."
+   ],
+   [
+    "Coût",
+    "En période de révision des listes électorales, le timbre ou la quittance est de 500 FCFA à l'intérieur du pays et dans les pays de la zone Franc, de 1 euro en zone Euro et de 1 dollar US pour le reste du monde."
+   ],
+   [
+    "Durée de validité",
+    "La carte nationale d'identité est valable 10 ans."
+   ],
+   [
+    "Que faire en cas de perte ou de vol ?",
+    "En cas de perte ou de vol, la déclaration auprès de la police ou de la gendarmerie est indispensable."
+   ],
+   [
+    "Où s'adresser ?",
+    "Au commissariat de police, à la brigade de gendarmerie ou à la préfecture ou sous-préfecture dont relève le domicile du demandeur. La demande peut aussi être reçue par les commissions administratives d'inscription sur les listes électorales instituées par arrêté.\nÀ l'étranger : dans les consulats généraux de Paris, Madrid, Milan, New York, Abidjan, Libreville, Casablanca, Djeddah et Pointe-Noire au Congo."
+   ],
+   [
+    "Pour en savoir plus",
+    "S'adresser à la direction de l'Automatisation des fichiers (DAF)."
+   ]
+  ],
+  "full_text": "Qui peut faire la demande ? :\nTout citoyen sénégalais, âgé d'au moins 5 ans, peut demander l'établissement d'une carte nationale d'identité. Elle est obligatoire à partir de 15 ans. Ce document justifie de l'identité. Il est souvent exigé dans le cadre de démarches administratives ou de transactions commerciales. Il doit également être présenté lors des contrôles opérés par les forces de sécurité.\n\nObligation et sanction :\nSi, au cours d'un contrôle d'identité, une personne de plus de 15 ans ne peut pas présenter sa carte nationale d'identité, elle est susceptible d'être emmenée au commissariat pour contrôle. Si une personne de plus de 15 ans n'a pas de carte nationale d'identité ou a une carte nationale d'identité périmée, elle peut recevoir une amende de 6 000 FCFA, ou de 12 000 FCFA en cas de récidive.\n\nPièces à fournir :\nL'ancienne carte nationale d'identité ou un extrait de naissance datant de moins de 3 mois ou toute pièce en tenant lieu, l'ancien passeport CEDEAO, le nouveau passeport CEDEAO numérisé.\nLe citoyen peut présenter une ancienne carte nationale d'identité si elle a été établie depuis 1979 ou un extrait de naissance datant au plus de 5 ans.\nEn cas de doute sur la nationalité du demandeur, il devra fournir un certificat de nationalité.\n\nCoût :\nEn période de révision des listes électorales, le timbre ou la quittance est de 500 FCFA à l'intérieur du pays et dans les pays de la zone Franc, de 1 euro en zone Euro et de 1 dollar US pour le reste du monde.\n\nDurée de validité :\nLa carte nationale d'identité est valable 10 ans.\n\nQue faire en cas de perte ou de vol ? :\nEn cas de perte ou de vol, la déclaration auprès de la police ou de la gendarmerie est indispensable.\n\nOù s'adresser ? :\nAu commissariat de police, à la brigade de gendarmerie ou à la préfecture ou sous-préfecture dont relève le domicile du demandeur. La demande peut aussi être reçue par les commissions administratives d'inscription sur les listes électorales instituées par arrêté.\nÀ l'étranger : dans les consulats généraux de Paris, Madrid, Milan, New York, Abidjan, Libreville, Casablanca, Djeddah et Pointe-Noire au Congo.\n\nPour en savoir plus :\nS'adresser à la direction de l'Automatisation des fichiers (DAF)."
+ },
+ {
+  "doc_id": "614e18cb2294",
+  "meta": {
+   "title": "Établissement du duplicata de la carte nationale d'identité (perte ou vol)",
+   "organisme": "Ministère de l'Intérieur",
+   "url": "https://interieur.gouv.sn/pour-vous/services-aux-usagers/etablissement-du-duplicata-de-la-carte-nationale-d-identite",
+   "source_type": "fiche_demarche",
+   "reliability": 3,
+   "language": "fr",
+   "category": "identite",
+   "subcategory": "cni",
+   "action": "perte",
+   "published_at": "",
+   "updated_at": "",
+   "collected_at": "2026-09-26",
+   "collection_method": "extrait_page_officielle",
+   "status": "active",
+   "fiche": "cni_duplicata",
+   "country": "SN"
+  },
+  "sections": [
+   [
+    "Pièces à fournir pour un duplicata",
+    "Un extrait de naissance datant de moins d'1 an.\nUn certificat de résidence ou tout autre document pouvant justifier l'adresse."
+   ],
+   [
+    "Où déposer la demande ?",
+    "La demande est déposée à la Section CNI du Commissariat ou poste de police, à la Brigade de Gendarmerie, à la Sous-préfecture où elle est instruite ou au niveau de certains consulats du Sénégal à l'étranger."
+   ],
+   [
+    "Traitement",
+    "Les données biométriques enregistrées sont envoyées à la DAF (Direction de l'Automatisation des Fichiers) par voie électronique."
+   ]
+  ],
+  "full_text": "Pièces à fournir pour un duplicata :\nUn extrait de naissance datant de moins d'1 an.\nUn certificat de résidence ou tout autre document pouvant justifier l'adresse.\n\nOù déposer la demande ? :\nLa demande est déposée à la Section CNI du Commissariat ou poste de police, à la Brigade de Gendarmerie, à la Sous-préfecture où elle est instruite ou au niveau de certains consulats du Sénégal à l'étranger.\n\nTraitement :\nLes données biométriques enregistrées sont envoyées à la DAF (Direction de l'Automatisation des Fichiers) par voie électronique."
+ },
+ {
+  "doc_id": "c587d9b73c85",
+  "meta": {
+   "title": "Carte nationale d'identité - informations utiles de la DAF (y compris diaspora)",
+   "organisme": "Direction de l'Automatisation des Fichiers (DAF)",
+   "url": "https://daf.sn/?page_id=2051",
+   "source_type": "fiche_demarche",
+   "reliability": 3,
+   "language": "fr",
+   "category": "identite",
+   "subcategory": "cni",
+   "action": "general",
+   "published_at": "",
+   "updated_at": "",
+   "collected_at": "2026-09-26",
+   "collection_method": "extrait_page_officielle",
+   "status": "active",
+   "fiche": "cni_infos_daf",
+   "country": "SN"
+  },
+  "sections": [
+   [
+    "Présence du demandeur",
+    "La présence physique du demandeur est obligatoire, tant pour la demande que pour le retrait de la carte nationale d'identité."
+   ],
+   [
+    "Si vous avez déjà eu la carte d'identité numérisée",
+    "Votre pièce d'identité numérisée originale (plus une photocopie).\nUn certificat de résidence ou un justificatif de domicile (facture EDF, GDF, Internet, quittance de loyer), requis pour les Sénégalais de la diaspora."
+   ],
+   [
+    "Si vous n'avez jamais eu de carte d'identité numérisée",
+    "Un extrait de naissance original datant de moins d'un an.\nUn certificat de résidence.\nEn cas de doute sur la nationalité du demandeur, un certificat de nationalité est requis."
+   ],
+   [
+    "Sénégalais nés à l'étranger (diaspora)",
+    "Un extrait de naissance transcrit datant de moins de 12 mois.\nUn certificat de résidence ou un justificatif de domicile (facture EDF, GDF, Internet, quittance de loyer), requis pour les Sénégalais de la diaspora."
+   ]
+  ],
+  "full_text": "Présence du demandeur :\nLa présence physique du demandeur est obligatoire, tant pour la demande que pour le retrait de la carte nationale d'identité.\n\nSi vous avez déjà eu la carte d'identité numérisée :\nVotre pièce d'identité numérisée originale (plus une photocopie).\nUn certificat de résidence ou un justificatif de domicile (facture EDF, GDF, Internet, quittance de loyer), requis pour les Sénégalais de la diaspora.\n\nSi vous n'avez jamais eu de carte d'identité numérisée :\nUn extrait de naissance original datant de moins d'un an.\nUn certificat de résidence.\nEn cas de doute sur la nationalité du demandeur, un certificat de nationalité est requis.\n\nSénégalais nés à l'étranger (diaspora) :\nUn extrait de naissance transcrit datant de moins de 12 mois.\nUn certificat de résidence ou un justificatif de domicile (facture EDF, GDF, Internet, quittance de loyer), requis pour les Sénégalais de la diaspora."
+ },
+ {
+  "doc_id": "d70b57450052",
+  "meta": {
+   "title": "Demander un passeport numérisé",
+   "organisme": "Ministère de l'Intérieur - Direction de la Police des étrangers et des titres de voyage (DPETV)",
+   "url": "https://senegalservices.sn/demarche/demander-un-passeport-numerise",
+   "source_type": "fiche_demarche",
+   "reliability": 3,
+   "language": "fr",
+   "category": "passeport",
+   "subcategory": "passeport_ordinaire",
+   "action": "general",
+   "published_at": "",
+   "updated_at": "",
+   "collected_at": "2026-09-26",
+   "collection_method": "extrait_page_officielle",
+   "status": "active",
+   "fiche": "passeport_demande",
+   "country": "SN"
+  },
+  "sections": [
+   [
+    "Qui peut faire la demande ?",
+    "Tout citoyen sénégalais peut, dès la naissance, demander un passeport ordinaire. Pour les enfants mineurs, joindre une autorisation parentale et la copie certifiée conforme de la carte nationale d'identité du père ou de la mère accompagnée d'un certificat de prise en charge délivré par la mairie ou la justice."
+   ],
+   [
+    "Quand faire la demande ?",
+    "En cas de voyage ou en prévision d'un voyage à l'étranger où le passeport est requis."
+   ],
+   [
+    "Pièces à fournir",
+    "Présentation de l'original de la carte nationale d'identité (une copie de la carte nationale d'identité est à déposer).\nUne quittance attestant du paiement de la somme due auprès de la direction de l'Enregistrement, des domaines et du timbre.\nPour les enfants de moins de 5 ans, fournir un extrait de naissance datant de moins de 3 mois à la place de la carte nationale d'identité.\nLes élèves et les étudiants doivent attester de leur statut en montrant une carte d'étudiant valide ou un certificat de scolarité."
+   ],
+   [
+    "Coût",
+    "Le coût du passeport est de 20 000 FCFA. Cette somme est payable auprès de la direction de l'Enregistrement des Domaines et du Timbre."
+   ],
+   [
+    "Délai",
+    "Au niveau de la direction de la Police des étrangers et des titres de voyage (DPETV), le délai est de 3 jours. Les dossiers des élèves, des étudiants et des personnes devant faire l'objet d'une évacuation sanitaire sont traités en priorité."
+   ],
+   [
+    "Durée de validité et renouvellement",
+    "La durée de validité d'un passeport est de 5 ans. Il est renouvelable une fois sur présentation de l'ancien passeport numérisé, de la copie du passeport numérisé et de la quittance d'un montant de 20 000 FCFA."
+   ],
+   [
+    "Que faire en cas de perte ou de vol ?",
+    "Faire une déclaration de perte et refaire la procédure, car il n'est pas délivré de duplicata."
+   ],
+   [
+    "Où s'adresser ?",
+    "Dans le commissariat de police dont relève votre domicile. À Dakar, le demandeur doit se présenter au commissariat sur rendez-vous. Il se rend d'abord à la direction de l'Enregistrement et du timbre qui lui remet la quittance après paiement de la somme due, puis il prend rendez-vous par le serveur vocal indiqué par l'administration.\nPour les ressortissants sénégalais résidant à l'étranger, s'adresser à l'ambassade du Sénégal dont relève le pays d'accueil."
+   ],
+   [
+    "Pour en savoir plus",
+    "S'adresser à la direction de la Police des étrangers et des titres de voyage (DPETV)."
+   ]
+  ],
+  "full_text": "Qui peut faire la demande ? :\nTout citoyen sénégalais peut, dès la naissance, demander un passeport ordinaire. Pour les enfants mineurs, joindre une autorisation parentale et la copie certifiée conforme de la carte nationale d'identité du père ou de la mère accompagnée d'un certificat de prise en charge délivré par la mairie ou la justice.\n\nQuand faire la demande ? :\nEn cas de voyage ou en prévision d'un voyage à l'étranger où le passeport est requis.\n\nPièces à fournir :\nPrésentation de l'original de la carte nationale d'identité (une copie de la carte nationale d'identité est à déposer).\nUne quittance attestant du paiement de la somme due auprès de la direction de l'Enregistrement, des domaines et du timbre.\nPour les enfants de moins de 5 ans, fournir un extrait de naissance datant de moins de 3 mois à la place de la carte nationale d'identité.\nLes élèves et les étudiants doivent attester de leur statut en montrant une carte d'étudiant valide ou un certificat de scolarité.\n\nCoût :\nLe coût du passeport est de 20 000 FCFA. Cette somme est payable auprès de la direction de l'Enregistrement des Domaines et du Timbre.\n\nDélai :\nAu niveau de la direction de la Police des étrangers et des titres de voyage (DPETV), le délai est de 3 jours. Les dossiers des élèves, des étudiants et des personnes devant faire l'objet d'une évacuation sanitaire sont traités en priorité.\n\nDurée de validité et renouvellement :\nLa durée de validité d'un passeport est de 5 ans. Il est renouvelable une fois sur présentation de l'ancien passeport numérisé, de la copie du passeport numérisé et de la quittance d'un montant de 20 000 FCFA.\n\nQue faire en cas de perte ou de vol ? :\nFaire une déclaration de perte et refaire la procédure, car il n'est pas délivré de duplicata.\n\nOù s'adresser ? :\nDans le commissariat de police dont relève votre domicile. À Dakar, le demandeur doit se présenter au commissariat sur rendez-vous. Il se rend d'abord à la direction de l'Enregistrement et du timbre qui lui remet la quittance après paiement de la somme due, puis il prend rendez-vous par le serveur vocal indiqué par l'administration.\nPour les ressortissants sénégalais résidant à l'étranger, s'adresser à l'ambassade du Sénégal dont relève le pays d'accueil.\n\nPour en savoir plus :\nS'adresser à la direction de la Police des étrangers et des titres de voyage (DPETV)."
+ },
+ {
+  "doc_id": "c824fc937451",
+  "meta": {
+   "title": "Demander un passeport ordinaire pour un ressortissant sénégalais résidant à l'étranger",
+   "organisme": "Ministère des Affaires étrangères et des Sénégalais de l'Extérieur",
+   "url": "https://senegalservices.sn/demarche/demander-letablissement-de-passeport-ordinaire-pour-un-ressortissant-senegalais-residant-a-letrang",
+   "source_type": "fiche_demarche",
+   "reliability": 3,
+   "language": "fr",
+   "category": "passeport",
+   "subcategory": "passeport_diaspora",
+   "action": "general",
+   "published_at": "",
+   "updated_at": "",
+   "collected_at": "2026-09-26",
+   "collection_method": "extrait_page_officielle",
+   "status": "active",
+   "fiche": "passeport_etranger",
+   "country": "SN"
+  },
+  "sections": [
+   [
+    "Renouvellement",
+    "Sur présentation de l'ancien passeport délivré selon la même procédure et acquittement d'une quittance de 20 000 FCFA."
+   ],
+   [
+    "Que faire en cas de perte ou de vol ?",
+    "Saisir l'autorité qui l'a établi pour une nouvelle délivrance."
+   ],
+   [
+    "Où s'adresser ?",
+    "Auprès de l'ambassade ou du consulat du Sénégal du pays de résidence. Pour en savoir plus : Ministère de l'Intégration africaine, des Affaires étrangères et des Sénégalais de l'Extérieur."
+   ]
+  ],
+  "full_text": "Renouvellement :\nSur présentation de l'ancien passeport délivré selon la même procédure et acquittement d'une quittance de 20 000 FCFA.\n\nQue faire en cas de perte ou de vol ? :\nSaisir l'autorité qui l'a établi pour une nouvelle délivrance.\n\nOù s'adresser ? :\nAuprès de l'ambassade ou du consulat du Sénégal du pays de résidence. Pour en savoir plus : Ministère de l'Intégration africaine, des Affaires étrangères et des Sénégalais de l'Extérieur."
+ },
+ {
+  "doc_id": "dbba19dcb685",
+  "meta": {
+   "title": "S'acquitter du paiement de la quittance correspondant au timbre du passeport",
+   "organisme": "Direction générale des Impôts et des Domaines (DGID)",
+   "url": "http://www.impotsetdomaines.gouv.sn/fr/sacquitter-du-paiement-de-la-quittance-correspondant-au-timbre-du-passeport",
+   "source_type": "fiche_demarche",
+   "reliability": 3,
+   "language": "fr",
+   "category": "passeport",
+   "subcategory": "quittance_passeport",
+   "action": "general",
+   "published_at": "",
+   "updated_at": "",
+   "collected_at": "2026-09-26",
+   "collection_method": "extrait_page_officielle",
+   "status": "active",
+   "fiche": "passeport_quittance_dgid",
+   "country": "SN"
+  },
+  "sections": [
+   [
+    "Description",
+    "Toute personne désirant se faire délivrer un passeport doit s'acquitter d'un droit de timbre. Une quittance lui est remise par le Receveur de l'Enregistrement chargé des actes civils, payable sous forme de quittance auprès des services fiscaux."
+   ],
+   [
+    "Coût",
+    "20 000 FCFA pour les passeports des citoyens ; 2 000 FCFA pour les passeports des pèlerins."
+   ],
+   [
+    "Que faire en cas de perte ou de vol de la quittance ?",
+    "S'adresser à l'Administration fiscale qui délivre une photocopie de la déclaration."
+   ],
+   [
+    "Où s'adresser ?",
+    "Bureau de l'Enregistrement des Actes civils territorialement compétent."
+   ]
+  ],
+  "full_text": "Description :\nToute personne désirant se faire délivrer un passeport doit s'acquitter d'un droit de timbre. Une quittance lui est remise par le Receveur de l'Enregistrement chargé des actes civils, payable sous forme de quittance auprès des services fiscaux.\n\nCoût :\n20 000 FCFA pour les passeports des citoyens ; 2 000 FCFA pour les passeports des pèlerins.\n\nQue faire en cas de perte ou de vol de la quittance ? :\nS'adresser à l'Administration fiscale qui délivre une photocopie de la déclaration.\n\nOù s'adresser ? :\nBureau de l'Enregistrement des Actes civils territorialement compétent."
+ }
+]

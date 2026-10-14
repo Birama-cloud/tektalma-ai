@@ -1,0 +1,22 @@
+# ============================================================================
+#  QUESTIONS FRÉQUENTES À PRÉCHARGER DANS LE CACHE
+#  Ces questions répondront instantanément, sans consommer de quota Gemini.
+#  Ajoutez celles que les gens posent vraiment, telles qu'ils les disent.
+#  Puis lancez :  python -m scripts.cache_tool warm
+# ============================================================================
+- Comment obtenir ma carte nationale d'identité ?
+- J'ai perdu ma carte d'identité, que dois-je faire ?
+- Quels documents faut-il pour la carte d'identité ?
+- Je vis à l'étranger, comment refaire ma carte d'identité ?
+- Combien coûte le passeport ?
+- Quels documents faut-il pour faire un passeport ?
+- J'ai perdu mon passeport, que faire ?
+- Comment obtenir un extrait de naissance ?
+- Comment déclarer la naissance de mon enfant ?
+- Carte nationale bi, nan la ma mën a def ngir jël ko ?
+- Carte nationale bi, dama ko ñàkk, lan la ma wara def ?
+- Ñaata la passeport bi jar ?
+- Sama extrait de naissance, fan laa koy jële ?
+- How do I get a national ID card?
+- How much does a passport cost?
+- How do I get a birth certificate extract?

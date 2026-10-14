@@ -1,0 +1,14 @@
+streamlit>=1.40
+google-genai>=1.0
+python-dotenv
+chromadb
+sentence-transformers
+rank-bm25
+requests
+beautifulsoup4
+trafilatura
+pyyaml
+gTTS
+gradio_client
+reportlab
+openai

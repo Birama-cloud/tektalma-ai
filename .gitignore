@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+*.sqlite
+*.db
+data/vectorstore/*
+!data/vectorstore/.gitkeep
+data/cache/*

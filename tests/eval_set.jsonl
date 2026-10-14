@@ -1,0 +1,14 @@
+{"question": "Comment obtenir ma carte nationale d'identité ?", "langue": "fr", "attendu": "answer", "fiches": ["cni_demande", "cni_infos_daf"]}
+{"question": "Carte nationale bi, nan la ma mën a def ngir jël ko ?", "langue": "wo", "attendu": "answer", "fiches": ["cni_demande", "cni_infos_daf"]}
+{"question": "J'ai perdu ma carte d'identité, je dois faire quoi ?", "langue": "fr", "attendu": "answer", "fiches": ["cni_duplicata", "cni_demande"]}
+{"question": "Carte nationale bi, dama ko ñàkk, lan la ma wara def ?", "langue": "wo", "attendu": "answer", "fiches": ["cni_duplicata", "cni_demande"]}
+{"question": "Je vis en France, comment refaire ma carte d'identité sénégalaise ?", "langue": "fr", "attendu": "answer", "fiches": ["cni_infos_daf", "cni_demande"]}
+{"question": "Combien coûte le passeport ?", "langue": "fr", "attendu": "answer", "fiches": ["passeport_demande", "passeport_quittance_dgid"]}
+{"question": "Quels documents faut-il pour faire un passeport ?", "langue": "fr", "attendu": "answer", "fiches": ["passeport_demande"]}
+{"question": "J'ai perdu mon passeport", "langue": "fr", "attendu": "answer", "fiches": ["passeport_demande", "passeport_etranger"]}
+{"question": "How do I get a birth certificate extract?", "langue": "en", "attendu": "answer", "fiches": ["extrait_naissance", "copie_litterale_naissance"]}
+{"question": "Sama extrait de naissance, fan laa koy jële ?", "langue": "wo", "attendu": "answer", "fiches": ["extrait_naissance", "copie_litterale_naissance"]}
+{"question": "Mon enfant vient de naître, que dois-je faire ?", "langue": "fr", "attendu": "answer", "fiches": ["declaration_naissance"]}
+{"question": "Qui va gagner la prochaine Coupe du monde ?", "langue": "fr", "attendu": "out_of_domain", "fiches": []}
+{"question": "Comment créer une entreprise au Sénégal ?", "langue": "fr", "attendu": "no_info", "fiches": []}
+{"question": "Je veux un papier", "langue": "fr", "attendu": "clarification", "fiches": []}
